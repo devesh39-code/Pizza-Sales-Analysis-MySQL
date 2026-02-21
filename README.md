@@ -40,13 +40,13 @@ Top pizzas per category
 
 # Dashboard Highlights
 
-✔ Total Revenue KPI
-✔ Total Orders KPI
-✔ Cumulative Revenue Trend
-✔ Top 5 Pizzas by Revenue
-✔ Revenue Contribution by Category
-✔ Orders by Hour
-✔ Size Distribution
+Total Revenue KPI
+Total Orders KPI
+Cumulative Revenue Trend
+Top 5 Pizzas by Revenue
+Revenue Contribution by Category
+Orders by Hour
+Size Distribution
 
 
 # Key Strategic Insights
