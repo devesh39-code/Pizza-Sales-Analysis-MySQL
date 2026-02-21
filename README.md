@@ -1,15 +1,15 @@
-🍕 Pizza Sales Analysis | MySQL + Power BI
-📌 Project Overview
+ Pizza Sales Analysis | MySQL + Power BI
+# Project Overview
 
 This project analyzes pizza sales data using MySQL and visualizes key business insights using Power BI.
 
-🛠 Tools Used
+# Tools Used
 
 MySQL
 
 Microsoft Power BI
 
-📊 Business Questions Solved
+# Business Questions Solved
 🔹 Basic Analysis
 
 Total number of orders
@@ -38,7 +38,7 @@ Cumulative revenue trend
 
 Top pizzas per category
 
-📈 Dashboard Highlights
+# Dashboard Highlights
 
 ✔ Total Revenue KPI
 ✔ Total Orders KPI
@@ -48,9 +48,8 @@ Top pizzas per category
 ✔ Orders by Hour
 ✔ Size Distribution
 
-�
-�
-Key Strategic Insights
+
+# Key Strategic Insights
 
 Balanced Revenue: All pizza categories perform similarly, with Classic
 leading at 26.9% and Veggie at 23.6%.
